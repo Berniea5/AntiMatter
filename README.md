@@ -2,8 +2,8 @@
 
 >***An Application Made In Python To View Your Network Information, Such As***:
 # Network
-- **Total Download**
 - **Total Upload**
+- **Total Download**
 # Packet Information
 - **Packets Sent**
 - **Packets Received**
